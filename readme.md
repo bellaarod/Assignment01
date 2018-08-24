@@ -1,4 +1,4 @@
 # Assignment01
 
-Bella Rodriguez
-Dan Navarro
+Bella Rodriguez Computer Engineering
+Dan Navarro Computer Science
